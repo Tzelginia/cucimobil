@@ -150,7 +150,7 @@ http://www.tooplate.com/view/2098-health
                                <h1 style="text-shadow: 5px 5px 5px blue;">CuMil</h1>
                               <h2 class="wow fadeInUp" data-wow-delay="0.6s "style="text-shadow: 5px 5px 5px blue;">Tentang Kami</h2>
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
-                                   <p style="color: white" >CuMil merupakan salah satu bidang usaha yang menawarkan jasa perawatan kendaraan berupa pencucian dan pembersihan kendaraan.</p>
+                                   <p style="color: white" >CuMil merupakan sistem pelayanan jasa cuci mobil.</p>
                               </div>
                               <figure class="profile wow fadeInUp" data-wow-delay="1s">
                                    <figcaption>
